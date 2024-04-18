@@ -25,6 +25,6 @@ def visit_all_dirs_files(usedir,full_list,curr_path,client):
 def find_in_list(lst, item, assaystr):
     result = []
     for i, x in enumerate(lst):
-        if re.search(f'{item}[_|-|{assaystr}]',x,re.IGNORECASE):
+        if re.search(f'{item}[_|-|-|{assaystr}]',x,re.IGNORECASE):
             result.append(i)
     return result
