@@ -1,0 +1,27 @@
+file,behavior1,behavior1_end,behavior2,behavior2_start,gap_duration
+Nov22_Pair1_TM.csv,No interaction,296.145,Mount,300.51,4.365000000000009
+Nov22_Pair1_TM.csv,Tussle,456.835,Mount,457.835,1.0
+Nov22_Pair17_TM.csv,Huddle,330.252,No interaction,330.753,0.5009999999999764
+Nov22_Pair17_TM.csv,Investigate,1371.169,No interaction,1371.422,0.25299999999992906
+Nov22_Pair19_TM.csv,Huddle,824.836,Mount,825.254,0.41800000000000637
+Nov22_Pair23_TM.csv,Sniff,88.791,Huddle,90.291,1.5
+Nov22_Pair23_TM.csv,Investigate,406.455,No interaction,408.207,1.7520000000000095
+Nov22_Pair32_TM.csv,Sniff,362.625,Investigate,416.376,53.750999999999976
+Nov22_Pair34_TM.csv,Sniff,762.202,No interaction,765.455,3.2530000000000427
+Nov22_Pair37_TM.csv,Mount,622.952,No interaction,625.207,2.2549999999999955
+Nov22_Pair39_TM.csv,Mount,1581.62,Mount,1583.625,2.005000000000109
+Nov22_Pair41_TM.csv,No interaction,592.098,No interaction,592.106,0.008000000000038199
+Nov22_Pair41_TM.csv,No interaction,598.707,Investigate,603.208,4.500999999999976
+Nov22_Pair42_TM.csv,No interaction,1260.958,Sniff,1262.206,1.24799999999982
+Nov22_Pair44_TM.csv,No interaction,1064.792,Huddle,1066.79,1.9980000000000473
+Nov22_Pair49_TM.csv,No interaction,1457.035,No interaction,1457.041,0.005999999999858119
+Nov22_Pair51_TM.csv,No interaction,1308.291,Investigate,1314.042,5.750999999999976
+Nov22_Pair56_TM.csv,No interaction,556.789,Huddle,565.292,8.503000000000043
+Nov22_Pair57_TM.csv,No interaction,139.122,Investigate,164.621,25.498999999999995
+Nov22_Pair57_TM.csv,No interaction,430.868,No interaction,430.875,0.007000000000005002
+Nov22_Pair57_TM.csv,Huddle,433.292,No interaction,436.293,3.001000000000033
+Nov22_Pair57_TM.csv,No interaction,910.534,No interaction,910.541,0.007000000000061846
+Nov22_Pair57_TM.csv,Investigate,912.206,Sniff,912.703,0.49699999999995725
+Nov22_Pair58_TM.csv,Investigate,532.789,Mount,533.536,0.7469999999999573
+Nov22_Pair7_TM.csv,No interaction,905.648,No interaction,905.656,0.007999999999924512
+Nov22_Pair7_TM.csv,Investigate,950.641,No interaction,951.388,0.7470000000000709

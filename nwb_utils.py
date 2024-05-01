@@ -23,3 +23,11 @@ def generate_recording_dtobj(datestring,timestring):
     rectime = get_time_from_video(timestring)
     dtobj = datetime(recdate[0],recdate[1],recdate[2],rectime[0],rectime[1],rectime[2],0,tzlocal())
     return dtobj
+
+def convert_time_with_offset(og_anchor,og_use,dest_anchor):
+    '''Calculate and use a fixed time offset to adjust timing from one domain to another.'''
+
+    offset = dest_anchor - og_anchor
+    converted = og_use + offset
+
+    return converted

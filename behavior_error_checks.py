@@ -57,3 +57,18 @@ def check_for_event_interactions(scoretab,verbose):
             print(f'Gap violation for behavior {gap_b1[i]} ending at {gap_e[i]} and next behavior {gap_b2[i]} starting at {gs}.')
 
     return overlap_s,overlap_e,overlap_b,gap_s,gap_e,gap_b1,gap_b2
+
+def set_event_ends(scoretab):
+    '''Set the end times of state behaviors to be 1 ms before the start of the next behavior while ignoring point events.'''
+
+    # find state events
+    mask = scoretab.behavior_type=='STATE'
+    stateonly = scoretab.loc[mask]
+
+    # calculate end values based on the start times of following events
+    stateonly.end.iloc[:-1] = round(stateonly.start.iloc[1:],3)-0.001
+
+    # get new end values added to a new table to return
+    tabcp = scoretab.copy()
+    tabcp[mask]=stateonly
+    return tabcp
