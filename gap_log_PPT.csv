@@ -1,0 +1,5 @@
+file,behavior1,behavior1_end,behavior2,behavior2_start,gap_duration
+Nov22_Pair15_PPT.csv,Interact Left,1537.625,Left,1537.868,0.24299999999993815
+Nov22_Pair23_PPT.csv,Left,271.706,Interact Left,272.704,0.9979999999999905
+Nov22_Pair46_PPT.csv,Center,4635.619,Left,4635.621,0.0020000000004074536
+Nov22_Pair5_PPT.csv,Left,2809.856,Center,2809.867,0.010999999999967258

@@ -1,0 +1,13 @@
+file,behavior1,behavior1_start,behavior1_end,behavior2
+Nov22_Pair17_PPT.csv,Interact Left,925.38,929.133,Huddle Right
+Nov22_Pair17_PPT.csv,Huddle Right,929.134,942.884,Left
+Nov22_Pair19_PPT.csv,Left,6078.87,6103.616,Right
+Nov22_Pair19_PPT.csv,Right,6103.617,6106.366,Left
+Nov22_Pair24_PPT.csv,Interact Right,2733.535,2735.704,Left
+Nov22_Pair25_PPT.csv,Right,8941.538,8942.287,Left
+Nov22_Pair31_PPT.csv,Right,2059.955,2097.204,Interact Left
+Nov22_Pair38_PPT.csv,Interact Left,282.538,286.284,Right
+Nov22_Pair38_PPT.csv,Right,286.285,291.79,Interact Left
+Nov22_Pair43_PPT.csv,Right,5311.208,5314.456,Interact Left
+Nov22_Pair43_PPT.csv,Interact Left,5314.457,5316.12,Right
+Nov22_Pair46_PPT.csv,Right,8905.203,8926.701,Left

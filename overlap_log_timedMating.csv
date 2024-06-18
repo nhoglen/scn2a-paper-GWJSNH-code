@@ -1,0 +1,19 @@
+file,behavior,start_time,end_time
+Nov22_Pair1_TM.csv,No interaction,455.585,456.836
+Nov22_Pair17_TM.csv,No interaction,277.755,282.501
+Nov22_Pair17_TM.csv,Sniff,279.255,282.501
+Nov22_Pair18_TM.csv,Mount,77.585,82.838
+Nov22_Pair18_TM.csv,Sniff,77.588,77.589
+Nov22_Pair23_TM.csv,Investigate,80.535,88.792
+Nov22_Pair23_TM.csv,Huddle,80.54,88.791
+Nov22_Pair32_TM.csv,Huddle,353.699,362.625
+Nov22_Pair32_TM.csv,No interaction,353.706,362.626
+Nov22_Pair39_TM.csv,Intromission,1578.368,1581.62
+Nov22_Pair39_TM.csv,Huddle,1578.371,1581.621
+Nov22_Pair41_TM.csv,No interaction,592.106,596.291
+Nov22_Pair41_TM.csv,Sniff,597.533,598.706
+Nov22_Pair41_TM.csv,Huddle,597.541,598.706
+Nov22_Pair49_TM.csv,No interaction,1457.041,1458.538
+Nov22_Pair57_TM.csv,No interaction,430.875,433.291
+Nov22_Pair57_TM.csv,No interaction,910.541,912.205
+Nov22_Pair7_TM.csv,No interaction,905.656,950.64

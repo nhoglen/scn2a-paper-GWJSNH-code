@@ -1,0 +1,4 @@
+file,behavior1,behavior1_end,behavior2,behavior2_start,gap_duration,needs_fix
+Nov22_Pair33_RI.csv,Sniff,3906.787,No interaction,3906.793,0.006000000000312866,Ok
+Nov22_Pair40_RI.csv,No interaction,3986.671,Sniff,3986.767,0.09600000000000364,Ok
+Nov22_Pair46_RI.csv,No interaction,3868.535,Sniff,3868.537,0.0019999999999527063,Ok

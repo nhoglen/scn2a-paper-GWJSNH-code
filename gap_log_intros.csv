@@ -1,0 +1,30 @@
+file,behavior1,behavior1_end,behavior2,behavior2_start,gap_duration
+Nov22_Pair15_Intro.csv,Investigate,1401.436,Huddle,1401.935,0.49900000000002365
+Nov22_Pair22_Intro.csv,No interaction,519.788,Sniff,522.037,2.2490000000000236
+Nov22_Pair23_Intro.csv,Investigate,899.036,No interaction,899.789,0.7530000000000427
+Nov22_Pair23_Intro.csv,No interaction,1185.702,Investigate,1186.705,1.002999999999929
+Nov22_Pair24_Intro.csv,Investigate,50.367,No interaction,50.452,0.08500000000000085
+Nov22_Pair24_Intro.csv,Sniff,52.12,Investigate,55.121,3.0010000000000048
+Nov22_Pair25_Intro.csv,No interaction,509.455,Investigate,510.951,1.4960000000000377
+Nov22_Pair25_Intro.csv,Investigate,1520.873,Sniff,1523.124,2.2509999999999764
+Nov22_Pair26_Intro.csv,Sniff,458.872,No interaction,459.12,0.24799999999999045
+Nov22_Pair26_Intro.csv,Sniff,592.867,No interaction,593.868,1.00100000000009
+Nov22_Pair26_Intro.csv,No interaction,618.786,Sniff,620.035,1.2490000000000236
+Nov22_Pair27_Intro.csv,Sniff,428.418,No interaction,428.42,0.0020000000000095497
+Nov22_Pair27_Intro.csv,Sniff,572.286,Investigate,572.29,0.004000000000019099
+Nov22_Pair27_Intro.csv,No interaction,770.879,Sniff,771.128,0.24900000000002365
+Nov22_Pair28_Intro.csv,No interaction,539.198,No interaction,539.206,0.008000000000038199
+Nov22_Pair28_Intro.csv,Sniff,539.621,Sniff,540.122,0.5009999999999764
+Nov22_Pair30_Intro.csv,Sniff,309.286,Investigate,309.288,0.0020000000000095497
+Nov22_Pair30_Intro.csv,No interaction,1606.456,No interaction,1610.707,4.251000000000204
+Nov22_Pair30_Intro.csv,No interaction,1621.206,Sniff,1625.209,4.003000000000156
+Nov22_Pair36_Intro.csv,No interaction,306.036,No interaction,306.119,0.08300000000002683
+Nov22_Pair36_Intro.csv,Investigate,306.533,Investigate,307.286,0.7529999999999859
+Nov22_Pair39_Intro.csv,No interaction,313.871,Defensive rear,340.453,26.581999999999994
+Nov22_Pair4_Intro.csv,Sniff,571.886,No interaction,571.905,0.019000000000005457
+Nov22_Pair43_Intro.csv,Investigate,1074.708,Huddle,1076.208,1.5
+Nov22_Pair49_Intro.csv,No interaction,1077.872,Investigate,1077.877,0.004999999999881766
+Nov22_Pair56_Intro.csv,Investigate,330.37,Defensive rear,330.623,0.2529999999999859
+Nov22_Pair60_Intro.csv,No interaction,1019.874,Sniff,1021.041,1.16700000000003
+Nov22_Pair63_Intro.csv,No interaction,1220.374,Defensive rear,1221.871,1.497000000000071
+Nov22_Pair64_Intro.csv,No interaction,1798.639,Huddle,1798.89,0.2510000000002037
