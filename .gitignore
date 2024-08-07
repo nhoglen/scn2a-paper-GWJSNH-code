@@ -160,3 +160,4 @@ cython_debug/
 .nwb
 .pdf
 figures/
+NWB/
