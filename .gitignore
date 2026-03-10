@@ -162,3 +162,4 @@ cython_debug/
 figures/
 NWB/
 *.png
+*.svg
